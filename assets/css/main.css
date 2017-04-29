@@ -2485,5 +2485,9 @@
 				margin-top: 2em;
 				padding-top: 2em;
 			}
+		.logo {
+			height: 67px;
+			width: 87px;
+		}
 
 	}
