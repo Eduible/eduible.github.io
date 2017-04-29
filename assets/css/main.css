@@ -2485,9 +2485,9 @@
 				margin-top: 2em;
 				padding-top: 2em;
 			}
-		.logo {
-			height: 67px;
-			width: 87px;
+		element.style{
+			height: 100px;
+			width: 115px;
 		}
 
 	}
